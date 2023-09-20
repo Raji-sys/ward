@@ -1,8 +1,8 @@
 <template>
     <div>
         <header class="shadow-xl ">
-            <nav class="container mx-auto p-8 flex justify-between uppercase">
-                <NuxtLink to="/" class="font-bold cus-text-gr">apc</NuxtLink>
+            <nav class="container mx-auto p-4 flex justify-between uppercase">
+                <NuxtLink to="/dashboard" class="focus:border-blue-600 bg-gradient-to-r from-green-500 via-blue-400 to-red-500 text-white p-2 rounded-xl shadow-inner">home</NuxtLink>
                 <div>
 
                     <ul class="flex gap-4">
@@ -35,7 +35,7 @@
 </template>
 
 <style scoped>
-.router-link-exact-active {
+/* .router-link-exact-active {
     color: #12b488;
-}
+} */
 </style>

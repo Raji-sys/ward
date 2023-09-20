@@ -1,9 +1,9 @@
 <template>
         <div class="grid grid-cols-2 gap-10 ">
             <div class="p-7">
-                <img src="coa.jpg" alt="product image" class="mx-auto my-7">
-                <div class="card-sm cus-text-gr text-2xl text-center">
-                    <h3>progressive change</h3>
+                <img src="logo1.png" alt="product image" class="mx-auto my-4">
+                <div class="cus-text-gr text-lg uppercase text-center">
+                    <p>all progressive congress</p>
                 </div>
             </div>
       <div class="p-7">
